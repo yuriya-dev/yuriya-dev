@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Wahyu Tri Cahya, people call me Wahyu. I am a tech enthusiast.
+I am Wahyu...
 
 ## ⚡ Technologies
 
