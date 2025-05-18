@@ -16,4 +16,4 @@ I am Wahyu...
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Blender](https:img.shields.io/badge/-Blender-orange?style==flat-square&logo=blender).
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
