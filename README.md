@@ -1,6 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am Wahyu...
+<img src="https://i.postimg.cc/tZyMtNnf/avatar.png" alt="My Avatar" width="150"/>
 
 ## ⚡ Technologies
 
