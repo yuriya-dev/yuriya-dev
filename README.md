@@ -1,7 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am Wahyu...
-[(https://img.shields.io/badge/-Yuriya-blue?style=flat-square&logo=https://i.postimg.cc/tZyMtNnf/avatar.png&logoWidth=40)](https://github.com/yuriya-dev)
+[!(https://img.shields.io/badge/-Yuriya-blue?style=flat-square&logo=https://i.postimg.cc/tZyMtNnf/avatar.png&logoWidth=40)](https://github.com/yuriya-dev)
 
 
 ## ⚡ Technologies
