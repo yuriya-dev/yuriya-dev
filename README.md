@@ -2,7 +2,6 @@
 
 I am Wahyu...
 -
--
 <img src="https://i.postimg.cc/F16xhxs4/avatar.png" alt="My Avatar" width="150" />
 
 ## ⚡ Technologies
