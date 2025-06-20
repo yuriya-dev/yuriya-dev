@@ -47,7 +47,6 @@ Here's what I love to build with:
 ## 📫 Let's Connect
 
 - 🌍 [Portfolio / Website](#)
-- 🐦 [Twitter](https://twitter.com/)
 - 💼 [LinkedIn](https://linkedin.com/in/wahyu-tri-cahya-a33607368)
 - 📧 yuriyaproject@gmail.com
 
