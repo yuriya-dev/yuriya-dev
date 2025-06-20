@@ -45,9 +45,10 @@ Here's what I love to build with:
 
 ## 📫 Let's Connect
 
-- 🌍 [Portfolio / Website](#)
-- 💼 [LinkedIn](https://linkedin.com/in/wahyu-tri-cahya-a33607368)
-- 📧 yuriyaproject@gmail.com
+- [![Website](https://img.shields.io/badge/Website-portfolio-purple?style=flat&logo=About.me&logoColor=white)](#)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahyutricahya-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahyu-tri-cahya-a33607368)
+- [![TikTok](https://img.shields.io/badge/TikTok-@yuriya__dev-black?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yuriya_dev)
+- [![Email](https://img.shields.io/badge/Email-yuriyaproject@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:yuriyaproject@gmail.com)
 
 ---
 
