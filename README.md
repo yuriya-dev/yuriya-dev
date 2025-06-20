@@ -40,18 +40,16 @@ Here's what I love to build with:
 ## 🔭 Current Focus
 
 - 🌐 Building interactive 3D experiences using **React Three Fiber**
-- 🛠️ Crafting stunning models in **Blender** for real-time web
-- 📦 Developing Dockerized apps for seamless deployment
-- 📘 Exploring low-level systems with Linux and xv6
+- 🛠️ Crafting stunning models in **Blender**
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌍 [Portfolio / Website](#) <!-- Ganti # dengan URL jika ada -->
-- 🐦 [Twitter](https://twitter.com/) <!-- Tambahkan username jika ada -->
-- 💼 [LinkedIn](https://linkedin.com/in/) <!-- Tambahkan username jika ada -->
-- 📧 wahyutric@example.com <!-- Ganti dengan email aktif jika ingin ditampilkan -->
+- 🌍 [Portfolio / Website](#)
+- 🐦 [Twitter](https://twitter.com/)
+- 💼 [LinkedIn](https://linkedin.com/in/wahyu-tri-cahya-a33607368)
+- 📧 yuriyaproject@gmail.com
 
 ---
 
