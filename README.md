@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/anmxxi.gif" width="100" alt="Animated Avatar" />
+  <img src="https://files.catbox.moe/anmxxi.gif" width="720" alt="Animated Avatar" />
 </p>
 
 
