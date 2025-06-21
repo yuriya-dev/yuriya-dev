@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <video src="https://files.catbox.moe/5u3jin.mp4" width="100" autoplay loop muted playsinline style="border-radius: 50%"></video>
+  <video src="https://files.catbox.moe/5u3jin.mp4" width="100" autoplay loop muted playsinline></video>
 </p>
 
 <p align="center">
