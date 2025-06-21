@@ -5,8 +5,9 @@
 </h1>
 
 <p align="center">
-  <video src="https://files.catbox.moe/5u3jin.mp4" width="100" autoplay loop muted playsinline></video>
+  <img src="https://files.catbox.moe/anmxxi.gif" width="100" alt="Animated Avatar" />
 </p>
+
 
 <p align="center">
   I'm a 3D artist and web developer passionate about building interactive 3D websites, blending art and code into immersive experiences.
