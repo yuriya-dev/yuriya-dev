@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/F16xhxs4/avatar.png" alt="My Avatar" width="100" />
+  <video src="https://files.catbox.moe/5u3jin.mp4" width="100" autoplay loop muted playsinline style="border-radius: 50%"></video>
 </p>
 
 <p align="center">
