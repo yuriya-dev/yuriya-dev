@@ -54,4 +54,4 @@ Here's what I love to build with:
 
 ---
 
-<sub>Made with ❤️ by Wahyu</sub>
+<sub>▫️▫️▫️▫️▫️▫️</sub>
