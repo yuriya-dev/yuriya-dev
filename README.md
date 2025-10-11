@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  I'm a 3D artist and web developer passionate about building interactive 3D websites, blending art and code into immersive experiences.
+  I'm a React Developer passionate about creating interactive and modern web applications — combining clean design, performance, and seamless user experiences.
 </p>
 
 ---
@@ -39,7 +39,8 @@ Here's what I love to build with:
 
 ## 🔭 Current Focus
 
-- 💻 Creating websites
+- ⚛️ Developing modern and scalable web apps with **React**
+- 🧩 Exploring integration between **frontend** and **API backends**
 - 🌐 Building interactive 3D experiences using **React Three Fiber**
 - 🛠️ Crafting stunning models in **Blender**
 
