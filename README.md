@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Fancy seeing you here! 
+## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Fancy seeing you here!
 
 <h1 align="center">
   Hey, I'm Wahyu! 👨‍💻
@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://files.catbox.moe/anmxxi.gif" width="400" alt="Animated Avatar" />
 </p>
-
 
 <p align="center">
   I'm a React Developer passionate about creating interactive and modern web applications — combining clean design, performance, and seamless user experiences.
@@ -19,7 +18,7 @@
 
 Here's what I love to build with:
 
-<p>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /></a>
   <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java" /></a>
@@ -37,20 +36,41 @@ Here's what I love to build with:
 
 ---
 
-## 🔭 Current Focus
+## 🥮 Most Used Languages
 
-- ⚛️ Developing modern and scalable web apps with **React**
-- 🧩 Exploring integration between **frontend** and **API backends**
-- 🌐 Building interactive 3D experiences using **React Three Fiber**
-- 🛠️ Crafting stunning models in **Blender**
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyutricahya&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"
+      alt="Most Used Languages"
+      height="165"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=wahyutricahya&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"
+    height="165"
+  />
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 🔭 Current Focus
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahyutricahya-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahyu-tri-cahya-a33607368)
-- [![TikTok](https://img.shields.io/badge/TikTok-@yuriya__dev-black?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yuriya_dev)
-- [![Email](https://img.shields.io/badge/Email-yuriyaproject@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:yuriyaproject@gmail.com)
+* ⚛️ Developing modern and scalable web apps with **React**
+* 🧩 Exploring integration between **frontend** and **API backends**
+* 🌐 Building interactive 3D experiences using **React Three Fiber**
+* 🦠 Crafting stunning models in **Blender**
+
+---
+
+## 📩 Let's Connect
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahyutricahya-blue?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/wahyu-tri-cahya-a33607368)
+* [![TikTok](https://img.shields.io/badge/TikTok-@yuriya__dev-black?style=flat\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@yuriya_dev)
+* [![Email](https://img.shields.io/badge/Email-yuriyaproject@gmail.com-red?style=flat\&logo=gmail\&logoColor=white)](mailto:yuriyaproject@gmail.com)
 
 ---
 
