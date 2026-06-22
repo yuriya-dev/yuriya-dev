@@ -2,10 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1d2e,50:252842,100:6c5dd3&height=220&section=header&text=Wahyu%20Tri&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=React%20Developer%20%E2%80%A2%203D%20Artist%20%E2%80%A2%20Creative%20Builder&descSize=17&descAlignY=60&descColor=00d4aa" width="100%"/>
 </div>
 
-<h1 align="center">
-  Hey, I'm Wahyu! 👨‍💻
-</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6c5dd3&center=true&vCenter=true&width=600&lines=React+Developer+%F0%9F%9A%80;3D+Artist+%26+Creative+Builder+%F0%9F%8E%A8;Frontend+%2B+Backend+Explorer+%F0%9F%94%A7;Always+learning%2C+always+building+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
