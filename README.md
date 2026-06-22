@@ -2,8 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1d2e,50:252842,100:6c5dd3&height=220&section=header&text=Wahyu%20Tri&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=React%20Developer%20%E2%80%A2%203D%20Artist%20%E2%80%A2%20Creative%20Builder&descSize=17&descAlignY=60&descColor=00d4aa" width="100%"/>
 </div>
 
-## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Fancy seeing you here!
-
 <h1 align="center">
   Hey, I'm Wahyu! 👨‍💻
 </h1>
