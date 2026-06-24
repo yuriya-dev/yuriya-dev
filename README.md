@@ -22,22 +22,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-```javascript
-const wahyu = {
-  name: "Wahyu Tri Cahya",
-  alias: "yuriya-dev",
-  location: "Indonesia 🇮🇩",
-  roles: ["React Developer", "3D Artist", "Creative Builder"],
-  currentlyLearning: ["React Three Fiber", "Node.js", "TypeScript"],
-  hobbies: ["3D Modeling", "UI/UX Design", "Watching Anime"],
-  funFact: "I think in components and dream in polygons 🧩",
-  motto: "Build something people remember."
-};
-```
-
----
-
 ## 🧰 Tech Stack
 
 ### 🌐 Frontend
