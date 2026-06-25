@@ -81,46 +81,46 @@ I'm a **Fullstack Developer** focused on building secure, high-performance web a
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/yuriya-dev/BlobCast"><img src="./gif/social-media.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" /> BlobCast</a></h3>
+      <h3><a href="https://github.com/yuriya-dev/BlobCast"><nobr><img src="./gif/social-media.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" /> BlobCast</nobr></a></h3>
       <p>Decentralized social publishing protocol on the <strong>Sui blockchain</strong>. Uses Walrus for permanent content storage and Tatum enterprise RPC — a full Web3 social stack with Move smart contracts, Next.js frontend, and Express/Prisma backend.</p>
       <p>
         <img src="https://img.shields.io/badge/Sui-1A56DB?style=flat-square" />
         <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=flat-square" />
         <img src="https://img.shields.io/badge/Move-1D4ED8?style=flat-square" />
       </p>
-      <a href="https://blob-cast.vercel.app/"><img src="./gif/earth.gif" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" /> Live Demo</a> · <a href="https://github.com/yuriya-dev/BlobCast"><img src="./gif/folder.gif" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" /> Code</a>
+      <a href="https://blob-cast.vercel.app/"><nobr><img src="./gif/earth.gif" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" /> Live Demo</nobr></a> · <a href="https://github.com/yuriya-dev/BlobCast"><nobr><img src="./gif/folder.gif" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" /> Code</nobr></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/yuriya-dev/Agromonitor-Jateng"><img src="./gif/line-chart.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" /> Agromonitor Jateng</a></h3>
+      <h3><a href="https://github.com/yuriya-dev/Agromonitor-Jateng"><nobr><img src="./gif/line-chart.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" /> Agromonitor Jateng</nobr></a></h3>
       <p>Real-time agricultural commodity price monitoring and prediction dashboard for Central Java. Stock market-style UI with ML forecasting — built for practical use by regional stakeholders.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-1A56DB?style=flat-square" />
         <img src="https://img.shields.io/badge/Node.js-1E3A8A?style=flat-square" />
         <img src="https://img.shields.io/badge/ML-1D4ED8?style=flat-square" />
       </p>
-      <a href="https://github.com/yuriya-dev/Agromonitor-Jateng"><img src="./gif/folder.gif" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" /> Code</a>
+      <a href="https://github.com/yuriya-dev/Agromonitor-Jateng"><nobr><img src="./gif/folder.gif" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" /> Code</nobr></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/yuriya-dev/SIPBANSOS"><img src="./gif/folder.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" /> SIPBANSOS</a></h3>
+      <h3><a href="https://github.com/yuriya-dev/SIPBANSOS"><nobr><img src="./gif/folder.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" /> SIPBANSOS</nobr></a></h3>
       <p>Micro-ERP for local government — automates selection and ranking of social aid recipients using the <strong>SAW algorithm</strong>. Replaces manual, subjective processes with a transparent, data-driven system.</p>
       <p>
         <img src="https://img.shields.io/badge/React-1A56DB?style=flat-square" />
         <img src="https://img.shields.io/badge/Node.js-1E3A8A?style=flat-square" />
         <img src="https://img.shields.io/badge/SAW%20Algorithm-1D4ED8?style=flat-square" />
       </p>
-      <a href="https://github.com/yuriya-dev/SIPBANSOS"><img src="./gif/folder.gif" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" /> Code</a>
+      <a href="https://github.com/yuriya-dev/SIPBANSOS"><nobr><img src="./gif/folder.gif" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" /> Code</nobr></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/yuriya-dev/palm-tree-detection"><img src="./gif/palm-tree.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" /> Nyawit — Palm Detection</a></h3>
+      <h3><a href="https://github.com/yuriya-dev/palm-tree-detection"><nobr><img src="./gif/palm-tree.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" /> Nyawit — Palm Detection</nobr></a></h3>
       <p>Fullstack UAV imagery platform that detects and classifies oil palm tree health in real time. Combines a React/Vite dashboard, Golang REST API, and a YOLO-seg ML inference pipeline.</p>
       <p>
         <img src="https://img.shields.io/badge/React-1A56DB?style=flat-square" />
         <img src="https://img.shields.io/badge/Golang-1E3A8A?style=flat-square" />
         <img src="https://img.shields.io/badge/YOLO-1D4ED8?style=flat-square" />
       </p>
-      <a href="https://github.com/yuriya-dev/palm-tree-detection"><img src="./gif/folder.gif" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" /> Code</a>
+      <a href="https://github.com/yuriya-dev/palm-tree-detection"><nobr><img src="./gif/folder.gif" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" /> Code</nobr></a>
     </td>
   </tr>
 </table>
