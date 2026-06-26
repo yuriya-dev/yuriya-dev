@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A56DB,50:1E3A8A,100:1E3A8A&height=220&section=header&text=Wahyu%20Tri&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=React%20Developer%20%E2%80%A2%203D%20Artist%20%E2%80%A2%20Creative%20Builder&descSize=17&descAlignY=60&descColor=BFDBFE" width="100%"/>
+  <img src="./assets/header.svg" width="100%"/>
 </div>
 
 
