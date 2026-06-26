@@ -81,7 +81,7 @@ I'm a **Fullstack Developer** focused on building secure, high-performance web a
 <table>
   <tr>
     <td width="350" valign="top">
-      <h3><a href="https://github.com/yuriya-dev/BlobCast"><img src="./gif/around-the-world.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" />&nbsp;BlobCast</a></h3>
+      <h3><img src="./gif/around-the-world.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" /><a href="https://github.com/yuriya-dev/BlobCast">BlobCast</a></h3>
       <p>Decentralized social publishing protocol on the <strong>Sui blockchain</strong>. Uses Walrus for permanent content storage and Tatum enterprise RPC — a full Web3 social stack with Move smart contracts, Next.js frontend, and Express/Prisma backend.</p>
       <p>
         <img src="https://img.shields.io/badge/Sui-1A56DB?style=flat-square" />
@@ -91,7 +91,7 @@ I'm a **Fullstack Developer** focused on building secure, high-performance web a
       <a href="https://blob-cast.vercel.app/"><img src="https://api.iconify.design/lucide/globe.svg?color=%231A56DB" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" />&nbsp;Live&nbsp;Demo</a>&nbsp;·&nbsp;<a href="https://github.com/yuriya-dev/BlobCast"><img src="https://api.iconify.design/lucide/code.svg?color=%231A56DB" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" />&nbsp;Code</a>
     </td>
     <td width="350" valign="top">
-      <h3><a href="https://github.com/yuriya-dev/Agromonitor-Jateng"><img src="./gif/line-chart.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" />&nbsp;Agromonitor&nbsp;Jateng</a></h3>
+      <h3><img src="./gif/line-chart.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" /><a href="https://github.com/yuriya-dev/Agromonitor-Jateng">Agromonitor&nbsp;Jateng</a></h3>
       <p>Real-time agricultural commodity price monitoring and prediction dashboard for Central Java. Stock market-style UI with ML forecasting — built for practical use by regional stakeholders.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-1A56DB?style=flat-square" />
@@ -103,7 +103,7 @@ I'm a **Fullstack Developer** focused on building secure, high-performance web a
   </tr>
   <tr>
     <td width="350" valign="top">
-      <h3><a href="https://github.com/yuriya-dev/SIPBANSOS"><img src="./gif/folder.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" />&nbsp;SIPBANSOS</a></h3>
+      <h3><img src="./gif/folder.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" /><a href="https://github.com/yuriya-dev/SIPBANSOS">SIPBANSOS</a></h3>
       <p>Micro-ERP for local government — automates selection and ranking of social aid recipients using the <strong>SAW algorithm</strong>. Replaces manual, subjective processes with a transparent, data-driven system.</p>
       <p>
         <img src="https://img.shields.io/badge/React-1A56DB?style=flat-square" />
@@ -113,7 +113,7 @@ I'm a **Fullstack Developer** focused on building secure, high-performance web a
       <a href="https://github.com/yuriya-dev/SIPBANSOS"><img src="https://api.iconify.design/lucide/code.svg?color=%231A56DB" width="16" height="16" style="vertical-align: middle; margin-right: 2px;" />&nbsp;Code</a>
     </td>
     <td width="350" valign="top">
-      <h3><a href="https://github.com/yuriya-dev/palm-tree-detection"><img src="./gif/palm-tree.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" />&nbsp;Nyawit&nbsp;—&nbsp;Palm&nbsp;Detection</a></h3>
+      <h3><img src="./gif/palm-tree.gif" width="22" height="22" style="vertical-align: middle; margin-right: 4px;" /><a href="https://github.com/yuriya-dev/palm-tree-detection">Nyawit&nbsp;—&nbsp;Palm&nbsp;Detection</a></h3>
       <p>Fullstack UAV imagery platform that detects and classifies oil palm tree health in real time. Combines a React/Vite dashboard, Golang REST API, and a YOLO-seg ML inference pipeline.</p>
       <p>
         <img src="https://img.shields.io/badge/React-1A56DB?style=flat-square" />
