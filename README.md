@@ -128,19 +128,52 @@ I'm a **Fullstack Developer** focused on building secure, high-performance web a
 
 ---
 
-## <img src="./gif/growth.gif" width="28" height="28" style="vertical-align: middle; margin-right: 4px;" /> GitHub Stats
+## <img src="./gif/growth.gif" width="28" height="28" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuriya-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriya-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF" height="165"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=yuriya-dev&show_icons=true&hide_border=true&theme=github_dark&count_private=true">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=yuriya-dev&show_icons=true&hide_border=true&theme=default&count_private=true">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuriya-dev&show_icons=true&hide_border=true&theme=default&count_private=true" />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriya-dev&layout=compact&hide_border=true&theme=github_dark">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriya-dev&layout=compact&hide_border=true&theme=default">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriya-dev&layout=compact&hide_border=true&theme=default" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriya-dev&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=yuriya-dev&theme=github-dark-blue&hide_border=true">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=yuriya-dev&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriya-dev&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuriya-dev&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=yuriya-dev&theme=github-dark&hide_border=true">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=yuriya-dev&theme=github-light&hide_border=true">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuriya-dev&theme=github-light&hide_border=true" />
+  </picture>
 </p>
 
 ---
