@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
+  <img src="./gif/eye.gif" width="18" height="18" style="">
   <img src="https://komarev.com/ghpvc/?username=yuriya-dev&label=Profile+Views&color=1A56DB&style=flat-square" alt="profile views" />
+  <img src="./gif/social-media.gif" width="18" height="18" style="">
   <img src="https://img.shields.io/github/followers/yuriya-dev?label=Followers&style=flat-square&color=1A56DB" />
   <br/><br/>
   <img src="./gif/location.gif" width="18" height="18" style="vertical-align: middle; margin-right: 4px;" /> <b>Indonesia</b>
@@ -26,8 +28,9 @@
 
 I'm a **Fullstack Developer** focused on building secure, high-performance web applications — from fintech dashboards to decentralized protocols. My work lives at the intersection of **clean engineering**, **practical AI systems**, and **immersive 3D experiences**.
 
+- <img src="./gif/html.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Create secure and high-performance web
 - <img src="./gif/mortarboard.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Cohort participant at **Dicoding ASAH 2025** — React & Back-End with AI
-- <img src="./gif/idea.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Exploring ML pipelines for real-world datasets (RFM segmentation, Fuzzy Inference Systems)
+- <img src="./gif/idea.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Exploring ML pipelines for real-world datasets.
 - <img src="./gif/earth.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Personal site: **[yuriyadev.xyz](https://yuriyadev.xyz)**
 
 ---
@@ -72,7 +75,7 @@ I'm a **Fullstack Developer** focused on building secure, high-performance web a
 
 ---
 
-## <img src="https://api.iconify.design/lucide/rocket.svg?color=%231A56DB" width="28" height="28" style="vertical-align: middle; margin-right: 4px;" /> Featured Projects
+## <img src="./gif/rocket.gif" width="28" height="28" style="vertical-align: middle; margin-right: 4px;" /> Featured Projects
 
 <table>
   <tr>
