@@ -29,7 +29,7 @@
 I'm a **Fullstack Developer** focused on building secure, high-performance web applications — from fintech dashboards to decentralized protocols. My work lives at the intersection of **clean engineering**, **practical AI systems**, and **immersive 3D experiences**.
 
 - <img src="./gif/html.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Building clean, scalable, and interactive front-end interfaces
-- <img src="./gif/shield.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Committed to secure backend architecture and smart contract safety (Sui/Move)
+- <img src="./gif/shield.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Committed to secure backend architecture
 - <img src="./gif/mortarboard.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Cohort participant at **Dicoding ASAH 2025** — React & Back-End with AI
 - <img src="./gif/idea.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Exploring ML pipelines for real-world datasets
 - <img src="./gif/earth.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Personal site: **[yuriyadev.xyz](https://yuriyadev.xyz)**
@@ -63,9 +63,10 @@ I'm a **Fullstack Developer** focused on building secure, high-performance web a
 
 **Web3 / Blockchain**
 
-![Sui](https://img.shields.io/badge/Sui-1A56DB?style=flat-square&logoColor=white)
-![Move](https://img.shields.io/badge/Move%20Lang-1E3A8A?style=flat-square&logoColor=white)
-![Walrus](https://img.shields.io/badge/Walrus%20Storage-1D4ED8?style=flat-square&logoColor=white)
+![Ethereum](https://img.shields.io/badge/ETH-1A56DB?style=flat-square&logo=ethereum&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui-1A56DB?style=flat-square&logo=sui&logoColor=white)
+![Move](https://img.shields.io/badge/Move%20Lang-1E3A8A?style=flat-square&logo=move&logoColor=white)
+![Walrus](https://img.shields.io/badge/Walrus%20Storage-1D4ED8?style=flat-square&logo=walrus&logoColor=white)
 
 **Tools**
 
@@ -130,16 +131,16 @@ I'm a **Fullstack Developer** focused on building secure, high-performance web a
 ## <img src="./gif/growth.gif" width="28" height="28" style="vertical-align: middle; margin-right: 4px;" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuriya-dev&show_icons=true&hide_border=true&bg_color=EFF6FF&title_color=1A56DB&icon_color=1D4ED8&text_color=1E293B&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriya-dev&layout=compact&hide_border=true&bg_color=EFF6FF&title_color=1A56DB&text_color=1E293B" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuriya-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriya-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriya-dev&hide_border=true&background=EFF6FF&stroke=BFDBFE&ring=1A56DB&fire=1D4ED8&currStreakLabel=1D4ED8&sideLabels=64748B&dates=94A3B8&sideNums=1E293B&currStreakNum=1E293B" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriya-dev&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuriya-dev&bg_color=EFF6FF&color=1A56DB&line=1D4ED8&point=1E3A8A&area_color=BFDBFE&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuriya-dev&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
